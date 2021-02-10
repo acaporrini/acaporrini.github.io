@@ -8,4 +8,5 @@ title: About
 # MIT License
 ---
 
-Alessandro's personal page
+
+{{site.data.contentful.spaces.test_alessandro.page[0].body}}

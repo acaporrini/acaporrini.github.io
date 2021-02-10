@@ -198,3 +198,9 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - sitemap.xml
     - robots.txt
     - redirects.json
+
+contentful:
+  spaces:
+    - test_alessandro:     
+        space: ENV_CONTENTFUL_SPACE_ID     
+        access_token: ENV_CONTENTFUL_ACCESS_TOKEN
